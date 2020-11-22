@@ -1,8 +1,20 @@
-<link rel="stylesheet" href="github-markdown.css">
+# Solutions
 
-# Solved problems
+Solved : [0], Easy : [0], Medium : [0], Hard : [0]
 
-<span class="round_background solved">Solved : 0</span>
-<span class="round_background easy">Easy : 0</span>
-<span class="round_background medium">Medium : 0</span>
-<span class="round_background hard">Hard : 0</span>
+<table style="text-align: center;">
+    <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>Task</th>
+        <th>Acceptance</th>
+        <th>Difficulty</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+    </tr>
+</table>
