@@ -1,15 +1,5 @@
-<style>
-    .round_background {
-        background-color: gray;
-        padding: 3px 8px;
-        border-radius: 3px;
-        color: white;
-    }
-    .easy { background-color: #5cb85c; }
-    .medium { background-color: #f0ad4e; }
-    .hard { background-color: #d9534f; }
-    .solved { background-color: #337ab7; }
-</style>
+<link rel="stylesheet" href="github-markdown.css">
+
 # Solved problems
 
 <span class="round_background solved">Solved : 0</span>
