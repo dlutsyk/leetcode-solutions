@@ -1,20 +1,9 @@
+
 # Solutions
 
 Solved : [0], Easy : [0], Medium : [0], Hard : [0]
 
-<table style="text-align: center;">
-    <tr>
-        <th>#</th>
-        <th>Title</th>
-        <th>Task</th>
-        <th>Acceptance</th>
-        <th>Difficulty</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-    </tr>
-</table>
+| # | Title | Solution | Rating | Difficulty |
+|:---:|:-----:|:--------:|:-------:|:----------:|
+| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [0001.js](https://github.com/dlutsyk/leetcode-solutions/blob/main/0001.js) | 0 | 0 |
+
